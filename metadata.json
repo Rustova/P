@@ -1,0 +1,6 @@
+{
+  "name": "MCQ Extractor",
+  "description": "An application to extract multiple-choice questions (MCQ) and their options from images using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
